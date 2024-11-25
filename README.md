@@ -8,7 +8,20 @@ I'm a **mobile app developer** diving into **Flutter development** and exploring
 I'm also delving into backend development with Java, but my ultimate goal is to pivot into full-stack development with JavaScript 🌟. 
 I love learning, experimenting, and building projects that solve real-world problems. Let's connect and create something amazing together! 🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davematteer)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Davematteer" alt="Anurag's GitHub stats">
+  </a>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs0MWhxNHR2enE3cnNpNm0zNTNlbDFmYnY5b2JjY3d0anFzbDhzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Excited GIF" style="margin-left: 20px;">
+</div>
+
+
+
+
+## Connect with Me
+  - [LinkedIn](https://www.linkedin.com/in/david-amenumey-45972932a)
+  - [Email me at Gmail](mailto:davematteer@gmail.com)
+  - [Email me at Outlook](mailto:david.amenumey@ashesi.edu.gh)
 
 <!---
 Davematteer/Davematteer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
