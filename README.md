@@ -4,8 +4,7 @@
 
 ## Aspiring Tech Enthusiast | Computer Engineering Student @ Ashesi University
 I'm a computer engineering student with a passion for technology and innovation. 
-I'm a **mobile app developer** diving into **Flutter development** and exploring the exciting world of **technology**. 
-I'm also delving into backend development with Java, but my ultimate goal is to pivot into full-stack development with JavaScript 🌟. 
+I'm a **backend** and **mobile app developer** diving into **Flutter development** and exploring the exciting world of **technology**.
 I love learning, experimenting, and building projects that solve real-world problems. Let's connect and create something amazing together! 🚀
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
