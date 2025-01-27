@@ -14,7 +14,8 @@ I love learning, experimenting, and building projects that solve real-world prob
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs0MWhxNHR2enE3cnNpNm0zNTNlbDFmYnY5b2JjY3d0anFzbDhzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Excited GIF" style="margin-left: 20px;">
 </div>
 
-
+## Tech Stack
+<img src="{https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white}" />
 
 
 ## Connect with Me
