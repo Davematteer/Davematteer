@@ -15,7 +15,14 @@ I love learning, experimenting, and building projects that solve real-world prob
 </div>
 
 ## Tech Stack
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" width="40" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Postgresql_logo_2015.svg" width="40" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite306.svg" width="40" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter_logo_2021.svg" width="40" />
+</div>
 
 
 
