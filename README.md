@@ -14,17 +14,30 @@ I love learning, experimenting, and building projects that solve real-world prob
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs0MWhxNHR2enE3cnNpNm0zNTNlbDFmYnY5b2JjY3d0anFzbDhzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Excited GIF" style="margin-left: 20px;">
 </div>
 
-## Tech Stack
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" width="40" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Postgresql_logo_2015.svg" width="40" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite306.svg" width="40" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter_logo_2021.svg" width="40" />
+## <h3 align="left">🛠 Tech Stack</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-
+###
 
 ## Connect with Me
   - [LinkedIn](https://www.linkedin.com/in/david-amenumey-45972932a)
