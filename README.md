@@ -1,10 +1,7 @@
 # Hey, I'm Dave ✊😤
 
-## Aspiring Backend Engineer | Computer Engineering Student @ Ashesi University
-I'm a computer engineering student with a passion for technology and innovation. 
-I'm a **backend** and **mobile app developer** diving into **Flutter development** and exploring the exciting world of **technology**.
-I love learning, experimenting, and building projects that solve real-world problems. Let's connect and create something amazing together! 🚀
-
+## Backend Engineer | Computer Engineering Student @ Ashesi University
+I write code :P
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs0MWhxNHR2enE3cnNpNm0zNTNlbDFmYnY5b2JjY3d0anFzbDhzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Excited GIF" style="margin-left: 20px;">
