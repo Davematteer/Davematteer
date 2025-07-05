@@ -7,7 +7,7 @@ I write code :P
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs0MWhxNHR2enE3cnNpNm0zNTNlbDFmYnY5b2JjY3d0anFzbDhzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Excited GIF" style="margin-left: 20px;">
 </div>
 
-
+<!--
 ## <h3 align="left">🛠 Tech Stack</h3>
 
 ###
@@ -29,6 +29,7 @@ I write code :P
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
+-->
 
 ###
 
